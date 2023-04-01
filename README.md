@@ -70,4 +70,12 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
+<!-- ![snake gif](https://github.com/rizkyizh/rizkyizh/blob/output/github-contribution-grid-snake.svg) -->
+<p align="center">
+    <img src="https://github.com/rizkyizh/rizkyizh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
+</p>
+
+<br/>
+<br/>
+
 <p>©&nbsp;2023 · <a href="https://ramawow.github.io">Ramawow Ltd</a></p>
