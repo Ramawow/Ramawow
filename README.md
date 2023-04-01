@@ -11,7 +11,7 @@
 
 ### [https://ramawow.github.io][website]
 
-Perkenalkan Nama Saya Rama saya berasal dari Klaten Indonesia, Pekerjaan saya bergerak di berbagai bidang khususnya IT Information. Kalian Bisa Hubungi Saya Melalui [Instargram](https://instagram.com/muhammadramadhantaufiq)
+Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak di berbagai bidang khususnya IT Information. Kalian Bisa Hubungi Saya Melalui [Instagram](https://instagram.com/muhammadramadhantaufiq)
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://instagram.com/muhammadramadhantaufiq)
 
