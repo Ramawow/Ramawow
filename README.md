@@ -32,9 +32,9 @@ Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak 
 <br/>
 <br/>
 
-[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20zonemedia)](https://github.com/Ramawow)
+[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=Ramawow&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20zonemedia)](https://github.com/Ramawow)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Ramawow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramawow&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Ramawow)
 
 [app1]: https://ramawow.github.io/Wisata-Selo
 [website]: https://ramawow.github.io
