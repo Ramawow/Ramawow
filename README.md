@@ -61,10 +61,14 @@
 <br>
 
 ### Projects
-- 💬 [Myidchat][app1]
-- 🧈 [Myproject][app2]
+- 💬 [Tour][app1]
+- 🧈 [TofuFactory][app2]
 
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
+<br>
+<br>
 ### Stats
 
 <br/>
@@ -78,10 +82,22 @@
 [app2]: https://tahupakgi.abye.dev
 [website]: https://ramawow.github.io
 
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
+<br>
+<br>
+
 ## &#x270d; Blog & Writing
 
 Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://www.samuelpasaribu.com) untuk melihat demo landing page [Landing Page](https://www.samuelpasaribu.com).
 ### [https://ramawow.github.io][website]
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
+<br>
+<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -97,6 +113,12 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
+<br>
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
