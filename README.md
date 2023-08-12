@@ -105,7 +105,7 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
-![Ramawow](https://raw.githubusercontent.com/Ramawow/ramawow/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
+![Ramawow](https://raw.githubusercontent.com/Ramawow/Ramawow/main/bottom_header.svg)
 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
