@@ -105,7 +105,7 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
-![Marta Geraldo](https://raw.githubusercontent.com/MGBrave/mgbrave/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
+![Marta Geraldo](https://raw.githubusercontent.com/Ramawow/ramawow/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
