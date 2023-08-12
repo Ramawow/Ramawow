@@ -73,10 +73,29 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
-<!-- ![snake gif](https://github.com/Ramawow/Ramawow/blob/output/github-contribution-grid-snake.svg) -->
-<p align="center">
-    <img src="https://github.com/Ramawow/Ramawow/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
-</p>
+<br>
+
+![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+
+
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2,5"/>
+
+<br>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/1vB47FRDNhBzSLXiYHe11J)
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2,5"/>
+
+<br>
 
 <br/>
 <br/>
