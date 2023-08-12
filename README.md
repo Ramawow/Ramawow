@@ -55,7 +55,7 @@
 
 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="2,5px"></img>
 
 <br>
 <br>
