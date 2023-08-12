@@ -99,7 +99,7 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) 
                                                                                                                
-[![Ramawow]((https://custom-icon-badges.herokuapp.com/badge/-M.%20Geraldo-blue?style=social-square&logo=mggcode&logoColor=white&link=https://github.com/ramawow)](https://ramawow.github.io)
+[![Ramawow]((https://custom-icon-badges.herokuapp.com/badge/-M.%20Geraldo-blue?style=social-square&logo=mggcode&logoColor=white)](https://ramawow.github.io)
 
 
 <br/>
