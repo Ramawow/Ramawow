@@ -19,6 +19,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rama-dhan/)](https://www.linkedin.com/in/rama-dhan/)
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:rmt0276@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/ramawow)](https://github.com/Ramawow)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=social-square&logo=Instagram&logoColor=white&link=https://github.com/ramawowhttps://instagram.com/muhammadramadhantaufiq)
+[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://instagram.com/muhammadramadhantaufiq)
 
 
 <br> <br>
@@ -56,16 +58,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
 
-### Hello, I'm Ramawow! 👋
-
-- 🔭 I’m currently working on frontier wallet.
-- 🌱 I’m currently learning swift.
-- 👯 I’m looking to collaborate on youtube.
-- 🤔 I’m looking for help with velocityx documentation.
-- 💬 Ask me about flutter or any tech related stuff.
-- 📫 How to reach me: Instagram - @muhammadramadhantaufiq.
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 ### [https://ramawow.github.io][website]
 
