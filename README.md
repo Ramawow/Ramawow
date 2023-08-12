@@ -17,6 +17,8 @@ Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak 
 
 ### Projects
 - 💬 [Myidchat][app1]
+- ![tahu](https://github.com/Ramawow/Ramawow/assets/75262985/1f99d5d4-426e-4091-8841-8da147f56cc9)[app2] 
+
 
 ### Stats
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -37,6 +39,7 @@ Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramawow&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Ramawow)
 
 [app1]: https://ramawow.github.io/Wisata-Selo
+[app2]: https://tahupakgi.abye.dev
 [website]: https://ramawow.github.io
 
 ## &#x270d; Blog & Writing
