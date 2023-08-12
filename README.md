@@ -17,8 +17,7 @@ Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak 
 
 ### Projects
 - 💬 [Myidchat][app1]
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.lovepik.com%2Felement%2F40166%2F8793.png_860.png&tbnid=YtCwQAtpxfUdDM&vet=12ahUKEwjGhvXOodaAAxUhm2MGHQ4qCcAQMygEegQIARA0..i&imgrefurl=https%3A%2F%2Fid.lovepik.com%2Fimage-401668793%2Ftofu-cartoon-element.html&docid=_WfLOYnrspAMJM&w=860&h=580&q=carikan%20gambar%20tahu%20putih%20dengan%20format%20ikon%20ini%20%F0%9F%94%AD&hl=id&ved=2ahUKEwjGhvXOodaAAxUhm2MGHQ4qCcAQMygEegQIARA0 [Myproject][app2]
-
+- t![Uploading TofuVeganGIF.gif…]() [Myproject][app2]
 
 
 ### Stats
