@@ -97,7 +97,19 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 
 <br>
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) 
+                                                                                                               
+[![Ramawow](https://img.shields.io/badge/-Github-blue?style=social-square&logo=Github&logoColor=white&link=https://github.com/ramawow)](https://ramawow.github.io)
+
+
 <br/>
 <br/>
 
-<p>©&nbsp;2023 · <a href="https://ramawow.github.io">Ramawow Ltd</a></p>
+![Marta Geraldo](https://raw.githubusercontent.com/MGBrave/mgbrave/ac3011a4affdb50caa70008ea5831f7a1d40caab/bottom_header.svg)
+
+
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+ </a>
