@@ -17,7 +17,7 @@ Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak 
 
 ### Projects
 - 💬 [Myidchat][app1]
-- t![Uploading TofuVeganGIF.gif…]() [Myproject][app2]
+- 🧈 [Myproject][app2]
 
 
 ### Stats
