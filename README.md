@@ -73,9 +73,9 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
-<!-- ![snake gif](https://github.com/MGBrave/mgbrave/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/Ramawow/Ramawow/blob/output/github-contribution-grid-snake.svg) -->
 <p align="center">
-    <img src="https://github.com/MGBrave/mgbrave/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
+    <img src="https://github.com/Ramawow/Ramawow/blob/output/github-contribution-grid-snake.svg" width="100%" alt="banner">
 </p>
 
 <br/>
