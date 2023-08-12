@@ -30,10 +30,9 @@
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width= "40" />
-<img src="https://github.com/Ramawow/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
-<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" />          
+<img align="left" alt="PHP" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
+<img align="left" alt="Node.js" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
+<img align="left" alt="Firebase" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" />          
           
            
   <br>        
@@ -54,9 +53,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/visual_studio-code-%23575757.svg?style=social-square&logo=visual-studio-code&logoColor=important)
 
 
-
-
-### [https://ramawow.github.io][website]
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"></img>
@@ -94,6 +90,7 @@
 ## &#x270d; Blog & Writing
 
 Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://www.samuelpasaribu.com) untuk melihat demo landing page [Landing Page](https://www.samuelpasaribu.com).
+### [https://ramawow.github.io][website]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
