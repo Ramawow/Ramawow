@@ -1,3 +1,61 @@
+![Ramawow](https://raw.githubusercontent.com/Ramawow/Ramawow/main/top_wave2.svg)
+
+<br>
+<br>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Ramawow+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Designer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Freelancer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Video+Editors+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Indonesia+%F0%9F%87%A7%F0%9F%87%B7;" alt="Ramawow" width="950" height="90">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<br>
+<br>
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1"/>
+
+## <img src="https://github.com/Ramawow/certificados/blob/main/certificados/logomgg/FOLLOW.png" width="30"> Connect with Me <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0077.gif" width="50" height=""></img>
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rama-dhan/)](https://www.linkedin.com/in/rama-dhan/)
+[![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:rmt0276@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/ramawow)](https://github.com/Ramawow)
+
+
+<br> <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+<br>
+## <img src="https://github.com/MGBrave/certificados/blob/main/certificados/logomgg/lista.png" width="30"> Tech Stack  
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width= "40" />
+<img src="https://github.com/MGBrave/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
+          
+          
+          
+           
+  <br>        
+  <br>         
+          
+ 
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>
+         
+
+<br>
+
+<br>
+
+
+
+[![Xamp Badge](https://img.shields.io/badge/Xampp-F37623?style=social-square&logo=xampp&logoColor=white)]()
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=social-square&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual_studio-code-%23575757.svg?style=social-square&logo=visual-studio-code&logoColor=important)
+
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="1"/>
+
 ### Hello, I'm Ramawow! 👋
 
 - 🔭 I’m currently working on frontier wallet.
