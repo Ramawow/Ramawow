@@ -4,7 +4,7 @@
 <br>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Ramawow+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Designer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Freelancer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Video+Editors+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Indonesia+%F0%9F%87%A7%F0%9F%87%B7;" alt="Ramawow" width="950" height="90">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Ramawow+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Designer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Freelancer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Video+Editors+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Indonesia+%F0%9F%91%8B%F0%9F%8F%BB;" alt="Ramawow" width="950" height="90">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <br>
@@ -20,7 +20,7 @@
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:rmt0276@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/ramawow)](https://github.com/Ramawow)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=social-square&logo=Instagram&logoColor=white&link=https://instagram.com/muhammadramadhantaufiq)](https://instagram.com/muhammadramadhantaufiq)
-[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://instagram.com/muhammadramadhantaufiq)
+[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://www.youtube.com/channel/UCzinBrdKGXhaxjkkw8QmOBw)
 
 
 <br> <br>
@@ -30,9 +30,10 @@
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width= "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width= "40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width= "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width= "40" />
-<img src="https://github.com/MGBrave/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
-          
-          
+<img src="https://github.com/Ramawow/flight/blob/main/vitelogo.png?raw=true" alt="vite" width="50" height="40"/>
+<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-dot-js-3628953-3030178.png" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" />          
           
            
   <br>        
@@ -56,10 +57,6 @@
 
 
 ### [https://ramawow.github.io][website]
-
-Perkenalkan Nama Saya Rama saya berasal dari Indonesia, Pekerjaan saya bergerak di berbagai bidang khususnya IT Information. Kalian Bisa Hubungi Saya Melalui [Instagram](https://instagram.com/muhammadramadhantaufiq)
-
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://instagram.com/muhammadramadhantaufiq)
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0370.gif" width="100%" height="5px"></img>
@@ -151,39 +148,39 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/natasha9999">
-        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="50px;" alt="natasha9999"/>
+      <a href="https://github.com/Arsybai">
+        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="50px;" alt="arsybai"/>
       </a>
       <br />
-      <a href="https://github.com/snowdream">snowdream</a>
+      <a href="https://github.com/Arsybai">arsybai</a>
     </td>
     <td align="center">
-      <a href="https://github.com/devcarolis">
-        <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="devcarolis"/>
+      <a href="https://github.com/R4m4w0w">
+        <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="r4m4wow"/>
       </a>
       <br />
-      <a href="https://github.com/devcarolis">devcarolis</a>
+      <a href="https://github.com/R4m4w0w">rama</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Cleidianaa">
-        <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="Cleidianaa"/>
+      <a hrefhttps://github.com/faridkinyobi">
+        <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="faridkinyobi"/>
       </a>
       <br />
-      <a href="https://github.com/Cleidianaa">Cleidianaa</a>
+      <a href="https://github.com/faridkinyobi">faridkinyobi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kareenketleen">
-        <img src="https://avatars.githubusercontent.com/u/16778466?v=4" width="50px;" alt="kareenketleen"/>
+      <a href="https://github.com/Kvrooo">
+        <img src="https://avatars.githubusercontent.com/u/16778466?v=4" width="50px;" alt="kvrooo"/>
       </a>
       <br />
-      <a href="https://github.com/kareenketleen">kareenketleen</a>
+      <a href="https://github.com/Kvrooo">rian</a>
     </td>
     <td align="center">
-      <a href="https://github.com/andreysmattos">
-        <img src="https://avatars.githubusercontent.com/u/27871595?v=4" width="50px;" alt="andreysmattos"/>
+      <a href="https://github.com/deatyity">
+        <img src="https://avatars.githubusercontent.com/u/27871595?v=4" width="50px;" alt="deatyity"/>
       </a>
       <br />
-      <a href="https://github.com/andreysmattos">Andreys Mattos</a>
+      <a href="https://github.com/deatyity">Nadea</a>
     </td>
     
   </tr>
