@@ -146,35 +146,35 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
   <tr>
     <td align="center">
       <a href="https://github.com/Arsybai">
-        <img src="https://avatars.githubusercontent.com/u/41237503?v=4" width="50px;" alt="arsybai"/>
+        <img src="https://avatars.githubusercontent.com/u/33319709?v=4" width="50px;" alt="arsybai"/>
       </a>
       <br />
       <a href="https://github.com/Arsybai">arsybai</a>
     </td>
     <td align="center">
       <a href="https://github.com/R4m4w0w">
-        <img src="https://avatars.githubusercontent.com/u/109559401?v=4" width="50px;" alt="r4m4wow"/>
+        <img src="https://avatars.githubusercontent.com/u/129609672?v=4" width="50px;" alt="r4m4wow"/>
       </a>
       <br />
       <a href="https://github.com/R4m4w0w">rama</a>
     </td>
     <td align="center">
       <a hrefhttps://github.com/faridkinyobi">
-        <img src="https://avatars.githubusercontent.com/u/84573782?v=4" width="50px;" alt="faridkinyobi"/>
+        <img src="https://avatars.githubusercontent.com/u/113663696?v=4" width="50px;" alt="faridkinyobi"/>
       </a>
       <br />
       <a href="https://github.com/faridkinyobi">faridkinyobi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Kvrooo">
-        <img src="https://avatars.githubusercontent.com/u/16778466?v=4" width="50px;" alt="kvrooo"/>
+        <img src="https://avatars.githubusercontent.com/u/111233993?v=4" width="50px;" alt="kvrooo"/>
       </a>
       <br />
       <a href="https://github.com/Kvrooo">rian</a>
     </td>
     <td align="center">
       <a href="https://github.com/deatyity">
-        <img src="https://avatars.githubusercontent.com/u/27871595?v=4" width="50px;" alt="deatyity"/>
+        <img src="https://avatars.githubusercontent.com/u/111192602?v=4" width="50px;" alt="deatyity"/>
       </a>
       <br />
       <a href="https://github.com/deatyity">Nadea</a>
