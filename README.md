@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rama-dhan/)](https://www.linkedin.com/in/rama-dhan/)
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:rmt0276@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/ramawow)](https://github.com/Ramawow)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=social-square&logo=Instagram&logoColor=white&link=https://github.com/ramawowhttps://instagram.com/muhammadramadhantaufiq)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=social-square&logo=Instagram&logoColor=white&link=https://instagram.com/muhammadramadhantaufiq)](https://instagram.com/muhammadramadhantaufiq)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://instagram.com/muhammadramadhantaufiq)
 
 
@@ -40,8 +40,7 @@
           
  
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>
-         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio//visual-studio-code.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>
 
 <br>
 
