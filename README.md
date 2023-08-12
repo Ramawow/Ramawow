@@ -40,7 +40,7 @@
           
  
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio//visual-studio-code.svg" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width= "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width= "30" />  <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png" width= "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width= "30"/><img src="https://raw.githubusercontent.com/martageraldo/awesome-badges/f2e698d53e403180c7d390f97745e3e794ada8aa/img/inkscape.svg" width= "30"/>
 
 <br>
 
