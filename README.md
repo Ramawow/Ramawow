@@ -237,12 +237,9 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-0078D4.svg)](http://commonmark.org) 
-                                                
-[![Ramawow](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/Ramawow)](https://ramawow.github.io)
 
-
-<br/>
-<br/>
+<br>
+<br>
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
 
@@ -251,6 +248,13 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2,5"/>
+<br/>
+
+                                                
+[![Ramawow](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/Ramawow)](https://ramawow.github.io)
+
+
+<br/>
 <br/>
 
 ![Ramawow](https://raw.githubusercontent.com/Ramawow/Ramawow/main/bottom_header.svg)
