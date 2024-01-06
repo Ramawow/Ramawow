@@ -244,6 +244,15 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
+![Alt Text](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
+
+![profile count](https://komarev.com/ghpvc/?username=Ramawow&color=red)&nbsp;
+[![GitHub Ramawow](https://img.shields.io/github/followers/Ramawow?label=follow&style=social)](https://github.com/Ramawow)&nbsp;
+
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2,5"/>
+<br/>
+
 ![Ramawow](https://raw.githubusercontent.com/Ramawow/Ramawow/main/bottom_header.svg)
 
 
