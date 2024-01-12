@@ -121,13 +121,12 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br>
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Ramawow/Ramawow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramawow&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Ramawow/Ramawow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramawow&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ramawow's GitHub Stats" />
-</a>
+<details>
+ <summary>Full Stats (click me to toggle 👀)</summary>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramawow&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramawow&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&theme=algolia" alt="Stat Streak" /></p>
+</details>
 
 <br/>
 <br/>
