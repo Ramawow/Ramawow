@@ -260,6 +260,6 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
+<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
