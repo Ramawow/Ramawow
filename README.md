@@ -260,6 +260,6 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
+<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
