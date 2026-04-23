@@ -260,6 +260,6 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
